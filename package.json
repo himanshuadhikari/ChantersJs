@@ -1,0 +1,24 @@
+{
+  "name": "chanters-js",
+  "version": "0.0.0",
+  "description": "javascript light weighted two way databinding library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himanshuadhikari/ChantersJs.git"
+  },
+  "keywords": [
+    "javascript",
+    "two way binding library",
+    "object.defineproperty"
+  ],
+  "author": "Himanshu Adhikari <himanshu.adhikari@tothenew.com> (https://github.com/ttn-himanshu)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/himanshuadhikari/ChantersJs/issues"
+  },
+  "homepage": "https://github.com/himanshuadhikari/ChantersJs#readme"
+}
